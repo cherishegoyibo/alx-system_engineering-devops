@@ -1,0 +1,1 @@
+Permissions script readme
